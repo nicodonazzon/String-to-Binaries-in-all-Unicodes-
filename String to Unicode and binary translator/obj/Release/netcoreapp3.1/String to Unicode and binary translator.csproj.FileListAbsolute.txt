@@ -1,0 +1,14 @@
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String_to_Unicode_and_binary_translator.Form1.resources
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.AssemblyInfo.cs
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.exe
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.deps.json
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.runtimeconfig.json
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.dll
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\bin\Release\netcoreapp3.1\String to Unicode and binary translator.pdb
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.dll
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.pdb
+C:\Users\Nico\Desktop\String to Unicode and binary translator\String to Unicode and binary translator\obj\Release\netcoreapp3.1\String to Unicode and binary translator.genruntimeconfig.cache
